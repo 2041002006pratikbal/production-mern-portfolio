@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.cbb728ca.css",
-    "main.js": "/static/js/main.211b120c.js",
+    "main.js": "/static/js/main.6716cb55.js",
     "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
     "static/media/portfolio_img.jpg": "/static/media/portfolio_img.f92b0298977c54f7fff2.jpg",
     "static/media/wipro_cv.pdf": "/static/media/wipro_cv.854db00a3b3c97f1b67e.pdf",
     "static/media/personal portfolio.png": "/static/media/personal portfolio.d57840ae8841f1a3b180.png",
+    "static/media/PASSPORT PIC PRATIK.jpg": "/static/media/PASSPORT PIC PRATIK.35cf29c7966e66255fba.jpg",
     "static/media/minigames_img.jpg": "/static/media/minigames_img.d20515c2768d625fe826.jpg",
     "static/media/mern_img.png": "/static/media/mern_img.558e6252dcf0e7d74c09.png",
     "static/media/resume_img.jpg": "/static/media/resume_img.951433878a1ce3762562.jpg",
     "static/media/contact.jpg": "/static/media/contact.2d8f7adc85ffaad72344.jpg",
     "index.html": "/index.html",
     "main.cbb728ca.css.map": "/static/css/main.cbb728ca.css.map",
-    "main.211b120c.js.map": "/static/js/main.211b120c.js.map",
+    "main.6716cb55.js.map": "/static/js/main.6716cb55.js.map",
     "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbb728ca.css",
-    "static/js/main.211b120c.js"
+    "static/js/main.6716cb55.js"
   ]
 }
